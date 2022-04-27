@@ -1,0 +1,19 @@
+
+j	java:S116"VRename this field "XMLfilename" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÎf
+O
+java:S5993"9Change the visibility of this constructor to "protected".(§ìú‡
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ôç¹¶
+S
+java:S3252&"=Use static access with "org.w3c.dom.Node" for "ELEMENT_NODE".(Î…Êû
+P
+java:S1141'"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ìú‡
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•û—ìùÿÿÿÿ
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùĞÙÜúÿÿÿÿ
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¿ÖÒ
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Šº
+k	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‚•¾ıÿÿÿÿ
+N
+java:S2755 "3Disable access to external entities in XML parsing.(ùĞÙÜúÿÿÿÿ
+I
+java:S2755B"3Disable access to external entities in XML parsing.(·Šº
