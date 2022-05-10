@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc6293ea-1fa8-4570-b8a6-4d13f8d05e29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04eac77773105388f07d1694028e31b02daeb2ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a026dfddd63cf4fc2de7a48344758edb5202857" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/189afc016bf964ce2a9cce4176346fd4a4e45421" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/18f87211b46277bdc664af5b009e94461902cc6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e12f9ebbb1dd8cb8c301d55aba9da547a3d4942" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e91dea3311ee32a897a6f4c9616b037ea184612" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f8320543c33da99c4711d222fd285a4d7627262" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/3770167989ef5aa6b3ec619241aa53d5fa44dfd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/412302aefdc39dcb70b8267287b3163e1d5723c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/460f76723d7c104f0c39d45bac44a2112ab375ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59081bf024db4734b89caef4a257e9f4fd3bb33b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84100e37e0516eac544e2d14fdda945795124323" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/862a0478de612a47a91bf612a1ceab4d84cd4f2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9ce1303bc83b23b06582d48e9cdc260ed52e76b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1de5133a2a37842719e7e54ab8dc0d9975fb433" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae17cd39777346dd234f2f3e8615e001d2d7eb55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8b22a7aebdd7f5a0c694b83bdf332cb77393b77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be0cbc48d38d42748cb0693304878dee9638423e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c89769fe181d330c440b8bb964f3bd35c8fc8e4e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce8694b6a9fa62c8d84168779103cb4ac12e178f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f43e4394199c11f371779a90cb16a4859f647c02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabAssignmentTracking.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grades.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grades.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/console/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/domain/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/domain/HasID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/domain/Homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/domain/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/AbstractCRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/AbstractFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/AbstractXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/CRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/GradeFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/GradeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/GradeXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/HomeworkFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/HomeworkRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/HomeworkXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/StudentFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/repository/StudentXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/service/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/validation/GradeValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/validation/HomeworkValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/validation/StudentValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/validation/ValidationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabAssignmentTracking/validation/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/META-INF/MonitorizareTemeLaboratorV01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/console/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/HasID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractCRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/CRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/GradeFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/GradeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/GradeXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/HomeworkFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/HomeworkRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/HomeworkXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/service/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/GradeValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/HomeworkValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/StudentValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/ValidationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/console/UI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/HasID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/AbstractCRUDRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/AbstractFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/AbstractXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/CRUDRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/GradeFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/GradeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/GradeXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/HomeworkFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/HomeworkRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/HomeworkXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/StudentFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repository/StudentXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validation/GradeValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validation/HomeworkValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validation/StudentValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validation/ValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/validation/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ServiceMockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/console/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/HasID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/AbstractCRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/AbstractFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/AbstractXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/CRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/GradeFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/GradeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/GradeXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/HomeworkFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/HomeworkRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/HomeworkXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/StudentFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/StudentXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/validation/GradeValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/validation/HomeworkValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/validation/StudentValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/validation/ValidationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/validation/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lab1-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/ServiceMockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/ServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/TestUtils.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25sRsFBVDNqofYGykRuauN6Fso2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adrie\Documents\verVal\lab1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ServiceMockTest">
+    <configuration name="ServiceMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ServiceMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMockTest.findAllStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ServiceMockTest" />
+      <option name="METHOD_NAME" value="findAllStudents" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMockTest.shouldFindAllGradesCalled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ServiceMockTest" />
+      <option name="METHOD_NAME" value="shouldFindAllGradesCalled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMockTest.shouldStudentBeAddedNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ServiceMockTest" />
+      <option name="METHOD_NAME" value="shouldStudentBeAddedNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiceMockTest" />
+        <item itemvalue="JUnit.ServiceTest" />
+        <item itemvalue="JUnit.ServiceMockTest.shouldFindAllGradesCalled" />
+        <item itemvalue="JUnit.ServiceMockTest.findAllStudents" />
+        <item itemvalue="JUnit.ServiceMockTest.shouldStudentBeAddedNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc6293ea-1fa8-4570-b8a6-4d13f8d05e29" name="Changes" comment="" />
+      <created>1646314017861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646314017861</updated>
+      <workItem from="1646314019226" duration="90000" />
+      <workItem from="1646314139881" duration="4892000" />
+      <workItem from="1647084499047" duration="2259000" />
+      <workItem from="1647273281794" duration="19000" />
+      <workItem from="1647422229933" duration="5244000" />
+      <workItem from="1647881201140" duration="3028000" />
+      <workItem from="1648576721472" duration="330000" />
+      <workItem from="1648629488921" duration="1346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
